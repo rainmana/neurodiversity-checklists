@@ -13,7 +13,13 @@ paper, or electronic devices.
 
 - [ ] Provide email, memos, evaluations, and instructions in writing.
 
-- [ ] Other:
+- [ ] Other: ______________________________________________________________________
+```
+Notes:
+
+
+
+```
 
 ## Preparation Accommodations
 
@@ -22,9 +28,13 @@ paper, or electronic devices.
 
 - [ ] Provide advanced notice of topics to be discussed in meetings.
 
-- [ ] Other:
+- [ ] Other: ______________________________________________________________________
+```
+Notes:
 
 
+
+```
 
 ## Communication Accommodations
 
@@ -37,11 +47,13 @@ paper, or electronic devices.
 
 - [ ] Avoid figurative language, rhetorical questions, idioms, irony, sarcasm, etc.
 
-- [ ] Other:
+- [ ] Other: ______________________________________________________________________
+```
+Notes:
 
 
 
-
+```
 ## Work Style Accommodations
 
 
@@ -63,9 +75,13 @@ work later at night, or earlier in the morning). “Modified work schedule.”
 - [ ] Provide natural light (desk near window, etc.) if possible.
 
 - [ ] Provide a private workspace.
+- [ ] Other: ______________________________________________________________________
+```
+Notes:
 
-- [ ] Other:
 
+
+```
 
 ## Sensory Accommodations
 
@@ -88,9 +104,13 @@ work later at night, or earlier in the morning). “Modified work schedule.”
 
 - [ ] Provide a private workspace.
 
-- [ ] Other:
+- [ ] Other: ______________________________________________________________________
+```
+Notes:
 
 
+
+```
 ## Structural & Organizational Accommodations
 
 - [ ] Provide clear, specific job tasks.
@@ -123,9 +143,13 @@ work later at night, or earlier in the morning). “Modified work schedule.”
 
 - [ ] Provide project deadlines on a calendar.
 
-- [ ] Other:
+- [ ] Other: ______________________________________________________________________
+```
+Notes:
 
 
+
+```
 
 ## Any Additional Accommodations
 
